@@ -1,0 +1,15 @@
+/**
+ * OOPSBannerUC1
+ *
+ * UC1: Prints the literal text "OOPS" to the console.
+ *
+ * @author Prem Kumar
+ * @version 1.0
+ */
+public class OOPSBannerUC1 {
+
+    public static void main(String[] args) {
+        System.out.println("OOPS");
+    }
+
+}
